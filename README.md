@@ -9,7 +9,7 @@
 1. Клонируйте репозиторий:
     ```bash
     git clone https://github.com/ApathyOn/lab-work-number-one.git
-    cd python_lab_01
+    cd lab-work-number-one
 
 2. Установите зависимости:
     ```bash
