@@ -17,7 +17,7 @@
 
 3. Запуск отдельных заданий:
     ```bash
-    python tasks/distance.py
+    python lab-work-number-one/distance.py
 
 4. Запуск всех тестов:
     ```bash
